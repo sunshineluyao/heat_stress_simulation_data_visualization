@@ -25,11 +25,11 @@ This project represents the culmination of collaborative effort, thoughtful guid
 - **Project Summary**:
 <p align="center">
   <kbd>
-    <img src="    " alt="Flowchart1" width="600"/>
+    <img src="project_mindmap.jpg" alt="Flowchart1" width="600"/>
   </kbd>
 </p>
 
-*Figure 1: Map of the research proposal. Created with Whimsical*
+*Figure 1: Map of the redesign process. Created on Miro*
 
 ---
 
