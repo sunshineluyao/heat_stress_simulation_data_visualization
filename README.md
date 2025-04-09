@@ -1,4 +1,4 @@
-# **Heat_stress_simulation_data_visualization**
+# **Heat Stress Data Visualization**
 
 ## Project Information
 
