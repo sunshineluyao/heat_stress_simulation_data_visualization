@@ -1,5 +1,3 @@
-The dataset was simulated by ChatGPT within realistic geographic and climatological ranges to reflect plausible U.S. heat stress scores. The structure mimics real-world datasets with latitude, longitude, and state/province info. 
-
 # **Heat_stress_simulation_data_visualization**
 
 ## Project Information
@@ -61,13 +59,10 @@ This repository focuses on research aimed at visualizing user credibility and cu
 ## **Repository Structure**
 
 - **[`Data/`](Data/README.md)**: Contains the datasets used in the project, including:
-  - **Climate-FEVER**: Validated climate-related claims with evidence annotations.
-  - **Global Misinformation Dataset**: Behavioral and demographic data from 16 countries.
+  - All data were simulated by chatGPT from a reference picture. 
 - **[`Code/`](Code/README.md)**: Python scripts for data preprocessing, integration, and visualization.
    - **`data_preprocessing.ipynb`**: Scripts for loading and aligning datasets.
-   - **`visualization_tools.py`**: Functions for creating static and interactive visualizations.
-   - **`machine_learning.ipynb`**: Includes machine learning pipelines and SHAP analysis.
-   - **`/map`**: HTML file for the geospatial map that one can download and run on browser.
+   - **`/map`**: HTML file for the geospatial map that one can download and run on a browser.
 - **[`Discussions/`](Discussions/README.md)**: Key insights, reflections, and future improvements based on project findings, the final poster, and peer evaluations.
 - **[`Visualizations/`](Visualizations/README.md)**: Output visualizations and analysis results.
 - **[`Docs/`](Docs/README.md)**: Supplementary documentation, final report.
@@ -88,11 +83,8 @@ This repository focuses on research aimed at visualizing user credibility and cu
 
 ## **Datasets**
 
-### **Climate-FEVER**
+### **???**
 - Focuses on climate-related misinformation with claim-evidence annotations categorized as SUPPORTS, REFUTES, or NOT_ENOUGH_INFO.
-
-### **Global Misinformation Dataset**
-- Behavioral data from 16 countries, capturing demographic influences on misinformation perception.
 
 ---
 
