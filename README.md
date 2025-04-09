@@ -1,5 +1,7 @@
 # **Heat Stress Data Visualization**
 
+![](INFOVIS_redesign_project_poster.png)
+
 ## Project Information
 
 - **Authors**: Nemuulen Togtbaatar
